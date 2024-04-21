@@ -5,3 +5,6 @@ Financial tracker for accounting of finances expenses income with demonstration 
 
 
 Application operation:
+
+
+![Снимок экрана 2024-04-21 115312](https://github.com/Vanya737/Finance/assets/144817452/63ce5a73-e7e8-4923-8b6f-b6094b27b38a)
