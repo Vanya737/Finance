@@ -5,7 +5,7 @@ import io
 import base64
 
 def main(page: ft.Page):
-    page.title = "Анализатор финансов"
+    page.title = "Финансовый трекер"
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.window_width = 900
     page.window_height = 720
