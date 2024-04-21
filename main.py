@@ -54,8 +54,8 @@ def main(page: ft.Page):
         balance_text.value = f"Баланс: {balance:.2f}"
 
         # Обновление графиков
-        expenses_graph.src_base64 = create_expenses_graph()  # Изменено на src_base64
-        timeline_graph.src_base64 = create_timeline_graph() # Изменено на src_base64
+        expenses_graph.src_base64 = create_expenses_graph() 
+        timeline_graph.src_base64 = create_timeline_graph() 
         page.update()
 
     # Функция для добавления записи
