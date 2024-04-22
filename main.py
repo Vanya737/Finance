@@ -96,8 +96,8 @@ def main(page: ft.Page):
     description_text_field = ft.TextField(label="Описание (опционально)")
     add_button = ft.ElevatedButton("Добавить запись", on_click=add_record)
     balance_text = ft.Text(size=20)
-    expenses_graph = ft.Image(width=400, height=300)  # Инициализация без src
-    timeline_graph = ft.Image(width=400, height=300) # Инициализация без src
+    expenses_graph = ft.Image(width=400, height=300)  
+    timeline_graph = ft.Image(width=400, height=300) 
 
     # Макет с размещением графиков рядом
     page.add(
