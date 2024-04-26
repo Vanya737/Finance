@@ -10,7 +10,7 @@ PyCharm development environment
 
 # Application operation:
 
-<img src="https://github.com/Vanya737/Finance/assets/144817452/2ba47adb-6da7-4c5f-851e-23be8eb133c8" width="500" height="500">
+<img src="https://github.com/Vanya737/Finance/assets/144817452/2ba47adb-6da7-4c5f-851e-23be8eb133c8" width="600" height="500">
 
 
 Calculating expenses income based on input data and 
