@@ -5,7 +5,7 @@
 - Money Manager
 - Money Flow
 
-![214534](https://github.com/Vanya737/Finance/assets/144817452/450fb049-98af-4419-8942-c2602098b666)
+<img src="[http://url.to/image.png](https://github.com/Vanya737/Finance/assets/144817452/450fb049-98af-4419-8942-c2602098b666)" width="200" height="200">
 
 ### Money Flow
 
