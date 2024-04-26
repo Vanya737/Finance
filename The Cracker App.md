@@ -1,0 +1,1 @@
+![Cracker](https://github.com/Vanya737/Finance/assets/144817452/4c49ff38-17b2-4e8c-a9e6-03da9ff625a9)
