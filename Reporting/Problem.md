@@ -4,7 +4,7 @@ Lack of control over finances is a
 common problem that can lead to 
 serious consequences. 
 
-<img src="https://github.com/Vanya737/Finance/assets/144817452/08c672c9-f147-4f2b-bb9d-6dd17dd37d7f=150x50" width="600" height="500">
+<img src="https://github.com/Vanya737/Finance/assets/144817452/08c672c9-f147-4f2b-bb9d-6dd17dd37d7f=150x50" width="600" height="450">
 
  People often spend money 
  impulsively, without tracking their expenses or planning a budget. 
