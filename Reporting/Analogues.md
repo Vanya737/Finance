@@ -1,4 +1,4 @@
-## Analogues:
+# Analogues:
 
 - Monefy
 - CoinKeeper
@@ -7,7 +7,7 @@
 
 ![214534](https://github.com/Vanya737/Finance/assets/144817452/450fb049-98af-4419-8942-c2602098b666)
 
-# Money Flow
+### Money Flow
 
 One of the most popular where currencies in rubles, dollars and euros are available. 
 You can also add accounts from which you spent money and set reminders here.
