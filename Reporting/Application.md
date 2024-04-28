@@ -10,7 +10,7 @@ PyCharm development environment
 
 # Application operation:
 
-<img src="https://github.com/Vanya737/Finance/assets/144817452/64ff161b-715c-43f9-81f5-db83b273b6f5" width="300" height="250">
+<img src="https://github.com/Vanya737/Finance/assets/144817452/64ff161b-715c-43f9-81f5-db83b273b6f5" width="300" height="450">
 
 
 
