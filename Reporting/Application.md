@@ -15,3 +15,8 @@ PyCharm development environment
 
 Calculating expenses income based on input data and 
 plotting as well as creating an Excel file
+
+
+An application aimed at improving 
+the introduction of financial affairs 
+for more correct budget planning
